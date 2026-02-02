@@ -1,0 +1,1841 @@
+--- UNIQUE CLUBS FOUND: 1837 ---
+Review this list for duplicates (e.g. 'Minaur' vs 'Minaur Baia Mare')
+If you find duplicates, add them to src/create_mapping.py
+
+07 Vestur
+1. Maj Ruma
+1.FC Nuremberg
+1.SC Znojmo
+A. Bals
+A. Klagenfurt
+A. Lustenau
+A. Salzburg
+A.C. Garda
+ABC FC
+AC Ajaccio
+AC Bellinzona
+AC Escaldes
+AC Horsens
+AC Kajaani
+AC Oulu
+ACB Ineu
+ACR Messina
+ACS Carani
+ACS FC Brasov Steagu Renaste (- 2024)
+ACS FC Dinamo Bucuresti
+ACS Fotbal Comuna Recea (- 2021)
+ACS Kinder
+ACS Poli
+ACS Prosport
+ACS Socodor
+ACS Tg. Mures
+ACS Urban Titu
+ACSC FC Arges
+ACSM Codlea
+ACSM Politehnica Iasi
+ACSM Resita
+ACSM Reșița U19
+ACSO Filiasi
+AD Alcorcón
+AE Kifisias
+AE Larisa
+AEK Athens
+AEK Larnaca
+AEL Limassol
+AER Afantou
+AFC ASA Targu Mures
+AFC Campulung Muscel 2022
+AFC Chindia Targoviste
+AFC Eskilstuna
+AFC Harman
+AFC Metalul Buzau
+AFC Progresul 1944 Spartac
+AFC Turris-Oltul Turnu Magurele (- 2021)
+AFC Unirea 04 Slobozia
+AJ Fano
+AO Egaleo
+AO Episkopi
+AO Xanthi
+AP Brera
+APO Levadiakos
+APOEL Nicosia
+ARO Câmpulung
+AS Béziers
+AS FAR Rabat
+AS Livorno
+AS Metropolitan
+AS Nancy
+AS Poissy
+AS Recaș
+AS Rodos
+AS Trencin
+ASA Tg. Mures
+ASA Tineret
+ASC Daco-Getica Bukarest
+ASD Lumignacco
+ASFC Buzau (2016-2025)
+ASM Rusii-Munti
+AXI Arena
+Aalborg BK
+Aalesund
+Abatorul S.
+Academica Clinceni
+Academica Clinceni II
+Academica Clinceni U19
+Academie GFI
+Académico Viseu
+Adanaspor
+Adun. Copăceni
+Aerostar Bacau
+African Talent
+Agricola B.
+Agropecuario
+Ajman Club
+Akhmat Grozny
+Akritas Chlor.
+Akron Togliatti
+Aktobe
+Al-Adalah
+Al-Ain
+Al-Arabi
+Al-Bataeh CSC
+Al-Batin
+Al-Faisaly
+Al-Gharafa
+Al-Hazem
+Al-Hussein SC
+Al-Jabalain
+Al-Jazira
+Al-Karma
+Al-Kharaitiyat
+Al-Khor SC
+Al-Markhiya SC
+Al-Mina'a SC
+Al-Mojzel
+Al-Najma
+Al-Nasr
+Al-Okhdood
+Al-Orobah
+Al-Qadsiah
+Al-Raed
+Al-Riffa SC
+Al-Rustaq
+Al-Safa
+Al-Sahel SC
+Al-Seeb
+Al-Shabab
+Al-Shahania SC
+Al-Shorta
+Al-Tai
+Al-Taraji
+Al-Ula
+Al-Wahda
+Al-Wehda
+Al-Zulfi
+Alashkert FC
+Alba Iulia
+Albacete U19
+Alem. Hamberg
+Alessandria
+Alexandria
+Alianza Atl.
+Aljustrelense
+Alki Oroklini
+Almere City
+Altay SK
+Alverca
+Amara
+Amarante
+Amiens SC
+Amvr. Distomou
+Anadia
+Anagen.Derynias
+Andrézieux
+Angers SCO B
+Ankaragücü
+Anorthosis
+Antalyaspor
+Antequera CF
+Ap. Larisas
+Apol. Limassol
+Apollon Smyrnis
+Ararat-Armenia
+Araz-Nakhchivan
+Arda Kardzhali
+Argentinos II
+Arges U19
+Ariesul Turda
+Aris Limassol
+Aris Saloniki
+Arka Gdynia
+Arouca
+Arsenal Tula
+Arsenal U21
+Artsakh
+Ascoli
+Ashton United
+Asteras Tripoli
+Astra Giur. U19
+Astra Giurgiu (- 2024)
+Astra II
+At. Sanluqueño
+Athletic Club
+Atl. Baleares
+Atl. Bembibre
+Atl. Nacional
+Atl. Rafaela
+Atl. Tucumán
+Atletico Arad
+Atletico Uri
+Atlètic Lleida
+Atlético
+Atlético-GO
+Atromitos
+Atyrau
+Aubagne Air Bel
+Auda
+Aurul Brad
+Avantul Periam
+Avantul Reghin
+Avaí FC
+Avellino
+Avenida
+Avezzano
+Axiopolis
+B SAD
+B. Banja Luka
+B. Jerusalem
+B. Podgorica
+BE1 Academy
+BK Forward
+BSC Old Boys
+Bad Kreuznach
+Baia Mare U19
+Balestier Khals
+Balmazújváros
+Balti
+Baltika
+Baltyk Gdynia
+Balzan FC
+Bandirma Spor
+Bandirmaspor
+Banga
+Banik Ostrava
+Barcelona-BA
+Barcău Nușfalău
+Bardejov
+Barendrecht
+Bari
+Barracas C.
+Bassano
+Batuque
+Beerschot VA
+Belasitsa
+Belenenses
+Belgrano
+Beltinci
+Benab FC
+Benevento
+Benfica U19
+Beroe
+Besa Dobri Dol
+Betis Deportivo
+Bicskei TC
+Bijelo Brdo
+Birkirkara FC
+Bisceglie
+Blau Weiss Linz
+Blois Foot 41
+Blue Ocean FC
+Bnei Sakhnin
+Bnei Shefaram
+Bnei Yehuda
+Boavista
+Bodrum FK
+Bodø/Glimt
+Bohemians
+Bologna
+Boluspor
+Borac Sajkas
+Boston United U19
+Botev Plovdiv
+Botev Vratsa
+Bourg-en-Bresse
+Bradu Borca
+Braga
+Braga B
+Brattvåg
+Bray Wanderers
+Bregalnica Stip
+Breno Giovanili
+Brera Strumica
+Brescia U19
+Brighton
+Brighton U21
+Brindisi
+Bröndby IF
+Bucov. Radauti
+Budafoki MTE
+Budoni
+Burglengenfeld
+Burgos CF
+Bursaspor
+Békéscsaba
+C. Budejovice
+C. Elblag
+C. Nehoiu
+C. Rizespor
+CA Fénix
+CA Güemes
+CA Oradea U19
+CABB Arreridj
+CAO 1910 Oradea
+CAO-NAC
+CD Acero
+CD Badajoz
+CD Estepona B
+CD Fátima
+CD Lugo
+CD Manacor
+CD Mirandés
+CD Plus Ultra
+CD Tenerife
+CD Tudelano
+CE Sabadell
+CF Can Vidalet
+CF Intercity
+CFR Cluj
+CFR Cluj II
+CFR Cluj U19
+CIL Blaj
+CN Mures U19
+CNP Timisoara
+CP Villarrobledo
+CPN U19
+CR Belouizdad
+CS Afumati
+CS Agigea 2023
+CS Balotesti
+CS Beiuș
+CS Beliu
+CS Blejoi
+CS Chênois
+CS Dinamo Bucuresti
+CS Dinamo Bucuresti U17
+CS Dinamo Bucuresti U19
+CS Drobeta
+CS Eforie
+CS Faurei
+CS Fola Esch
+CS Gheorgheni
+CS Iernut
+CS Ineu
+CS Mioveni
+CS Mioveni U19
+CS Orţişoara
+CS Oșorhei
+CS Paulesti
+CS Sanem
+CS Sfaxien
+CS Tunari
+CS Unirea Santana
+CS Unirea Ungheni
+CS Universitatea Craiova
+CS Universitatea Craiova II
+CS Universitatea Craiova U19
+CS Vulturii
+CSA Steaua
+CSA Steaua U18
+CSC 1599 Selimbar
+CSC Dumbravita
+CSC Ghiroda
+CSC Sanmartin
+CSD Municipal
+CSF Speranta
+CSKA 1948
+CSKA 1948 II
+CSKA-Sofia
+CSL Nanov
+CSL Ștefănești
+CSM Adjud
+CSM Alexandria
+CSM Bacau
+CSM Ceahlaul Piatra Neamt
+CSM Deva
+CSM Fetesti
+CSM Focsani 2007
+CSM Lugoj
+CSM Medgidia
+CSM Olimpia Satu Mare
+CSM Oltenita
+CSM Pascani
+CSM Ramnicu U19
+CSM Roman
+CSM Sacele
+CSM Satu Mare
+CSM Sighet
+CSM Slatina
+CSM Targu Mures
+CSM Tg. Jiu
+CSM Vaslui
+CSO Băicoi
+CSO Deta
+CSO Ovidiu
+CSO Plopeni
+CSO Turceni
+CSP Satu Mare
+CSS Craiova
+CSS Slatina
+CSU Alba Iulia
+CSU Craiova U19
+Cagliari
+Calahorra
+Calimanesti
+Campulung
+Canon Yaoundé
+Canosa
+Capel Plough
+Carașova
+Carbonia
+Career break
+Carmen Buk.
+Carpi
+Carrarese
+Cartaginés
+Casa Pia
+Castelnuovo
+Cattolica
+Cavalry FC
+Ceahlaul II
+Cegléd
+Celta Fortuna
+Celtic
+Centrul de Exc.
+Cerdanyola FC
+Cesena
+Cetatea 1932
+Cetatea Tr. M.
+Chacarita Jrs.
+Chalkanoras
+Chamois Niort
+Chaves
+Chaves B
+Cherno More
+Chievo Verona
+Chindia U19
+Chisola
+Chojniczanka
+Chornomorets
+Chrudim
+Cibalia
+Cigánd
+Cincinnati
+Cittadella
+Cjarlins Muzane
+Clermont Foot
+Club Brugge
+Cobreloa
+Codru
+Coimbra
+Colon
+Colorno
+Coltea
+Coltea U19
+Columbus
+Comerciantes
+Comprest Gim
+Comunicaciones
+Concordia Chiajna
+Concordia Chiajna II
+Concordia Chiajna U18
+Condal Club
+Confiança
+Copenhagen
+Cork Academy
+Cork City
+Cork City Res.
+Corona Brasov
+Corum FK
+Corvinul Hunedoara
+Corvinul U17
+Corvinul U19
+Cosenza
+Cova Piedade
+Coventry U21
+Cracovia
+Crema
+Cremonese
+Crisul Chisineu
+Crotone
+Cruzeiro
+Cukaricki
+Curtişoara
+CyD Leonesa
+Cádiz CF
+César Vallejo
+Córdoba CF
+D. Giurgiu
+D.C. United
+DFK Dainava
+DL Yingbo
+Da Nang FC
+Dacia B U19
+Dacia Buiucani
+Dacia Unirea Braila
+Dacia Unirea Braila U19
+Daco-Getica
+Daejeon Hana C.
+Daesti
+Dallas
+Damac FC
+Dante Botosani
+Debrecen
+Delfín SC
+Delta Tulcea
+Denizlispor U21
+Dep. Coopsol
+Dep. Cuenca
+Dep. La Coruña
+Dep. Maipú
+Dep. Morón
+Dep. Riestra
+Desna
+Desportivo Aves
+Dessel Sport
+Diagoras
+Diegem Sport
+Digenis Ypsona
+Dijon
+Dijon FCO B
+Dikkelvenne
+Dinamo Bacau
+Dinamo Batumi
+Dinamo City
+Dinamo Minsk
+Dinamo Tbilisi
+Dinamo U19
+Dinamo-Auto
+Dinamyk Craiova
+Diosig
+Diósgyőr
+Dnyapro Mogilev
+Dob. Dobrich
+Dorog
+Doxa Katokopias
+Duhok SC
+Dumiense
+Dumlupinar TSK
+Dun. Ciocănești
+Dun. Grădiștea
+Dunajska Streda
+Dunarea Calarasi
+Dunarea Calarasi U19
+Dunav
+Dundee United
+Dynamo Kyiv
+Déols
+Džiugas
+E. Erokspor
+EN Paralimniou
+ES Thaon
+ETO FC
+East Riffa Jgd
+East Stirling
+Eastern Suburbs
+Ejike Ugboaja
+Eldense
+Electrica Tm.
+Emblem IL
+Emmanuel City
+Empoli U20
+Entella U19
+Eolikos
+Erbiceni
+Ermis Aradippou
+Erpeldange
+Esbjerg fB
+Esportivo
+Este
+Estoril
+Estrela Amadora
+Estudiantes
+Estudiantes LP
+Etar
+Ethnikos
+Etoile Carouge
+Etoiles Mandé
+Extremadura
+Eyüpspor
+F. Düsseldorf
+F91 Dudelange
+FA Šiauliai
+FC 2018 Rovine
+FC Aarau
+FC Ardealul
+FC Argeș II
+FC Ashdod
+FC Astana
+FC Augsburg II
+FC Augsburg U19
+FC Avrig
+FC Bacau
+FC Bacau Youth
+FC Bacău U18
+FC Ballkani
+FC Baniyas
+FC Bihor 1902
+FC Botosani
+FC Botosani II
+FC Botosani U18
+FC Buxoro
+FC Buzau U19
+FC Cartagena
+FC Chiasso
+FC Clivense SM
+FC Coffrane
+FC Cosmos
+FC D. Coman
+FC Den Bosch
+FC Dietikon
+FC Dila
+FC Dinamo 1948
+FC Dinamo 1948 II
+FC Dordrecht
+FC Drita
+FC Edmonton
+FC Eindhoven
+FC Emmen
+FC Fully
+FC Haka
+FC Hermannstadt
+FC Inter
+FC Iserlohn
+FC KTP
+FC Koper
+FC Liria
+FC Locomotive
+FC Lorient
+FC Luftëtari
+FC Malisheva
+FC Metaloglobus Bucharest
+FC Motagua
+FC Nantes
+FC Noah
+FC Nöttingen
+FC O.Tourangeau
+FC Oberneuland
+FC Oleksandriya
+FC Orania Vianden
+FC Ordino
+FC Petrocub
+FC Porto B
+FC Prishtina
+FC Pucioasa
+FC Rapid 1923
+FC Romania
+FC Rouen 1899
+FC Rustavi II
+FC Schaffhausen
+FC Sheriff
+FC Shkupi
+FC Sion
+FC Sireți
+FC Sochaux
+FC Suhareka
+FC Sète 34
+FC Thun
+FC Turan
+FC U Craiova 1948
+FC Universitatea Cluj
+FC Universitatea Cluj II
+FC Universitatea Cluj U18
+FC Universitatea Cluj Youth
+FC Urartu
+FC Vaduz
+FC Van
+FC ViOn
+FC Viitorul Constanta
+FC Viitorul II
+FC Viitorul U19
+FC Villefranche
+FC Volendam
+FC Voluntari
+FC Voluntari II
+FC Voluntari U18
+FC Wacker
+FC Wil 1900
+FC Wiltz 71
+FC Winterthur
+FCI Levadia
+FCSB
+FCSB II
+FCSB U18
+FCSB U21
+FCSB Yth.
+FCU Craiova U17
+FCU Craiova U19
+FCV Farul Constanta
+FCV Farul II
+FCV Farul U18
+FK Alfa Modriča
+FK BE1
+FK Bylis
+FK Csikszereda Miercurea Ciuc
+FK Csikszereda Miercurea Ciuc II
+FK Csikszereda Miercurea Ciuc U19
+FK Gabala
+FK Gornji Rahic
+FK Kukësi
+FK Partizani
+FK Podgorica
+FK Sabail
+FK Sarajevo
+FK Senica
+FK Skopje
+FK Sochi
+FK TSC
+FK TSC U19
+FK Tuzla City
+FR Haguenau
+FS Kozani
+FUS Rabat
+FV Eppelborn
+Fabril Barreiro
+Fafe
+Fakel Voronezh
+Falesti
+Famalicão
+Fanfulla
+Farense
+Fastav Zlin
+FavAC
+Fehérvár
+Fehérvár II
+Feirense
+Felgueiras
+Ferencváros
+Ferencváros II
+Fermana
+Fidelis Andria
+Fiorentina
+Fiorentina U19
+Flacara Horezu
+Flacara Moreni
+Flacăra Boteni
+Flamurtari FC
+Flandria
+Floriana
+Foggia
+Foresta Suceava
+Fortuna B. Mic
+Fortuna Sittard
+Freamunde
+Front. Curtici
+Frosinone
+G. Bordeaux
+G. Manresa U19
+GIF Sundsvall
+GKS Belchatow
+GKS Tychy
+GOAL FC
+GOSK Gabela
+GSD Kl Pertusa
+GSP Polet
+GU-Türkspor
+Galatasaray
+Galaxy Tm.
+Gaz Metan Medias (- 2022)
+Gaz Metan Medias II
+Gaz Metan Medias U19
+Gaziantep FK
+Genclerbirligi
+Genclik Gücü
+General Diaz
+Genk
+Genoa
+Genoa U18
+Genoa U19
+Geoagiu
+Getafe CF B
+Gheorghe Doja
+Gil Vicente
+Gilortul
+Gimnasia (J)
+Gimnàstic
+Gimnástica
+Giresunspor
+Giugliano
+Glacis United
+Glentoran
+Gloria Albesti
+Gloria Baneasa
+Gloria Bistrita
+Gloria CFR Arad
+Gloria Ultra
+Gornik Leczna
+Granada CF
+Grasshoppers
+Gravina
+Grazer AK 1902
+Grenoble
+Grosseto
+Grêmio U20
+Grödig
+Gualdo
+GuiZ FC
+Guidonia
+Guingamp
+Gura Humorului
+Gura Suții
+Gyeongnam FC
+Gyirmót FC
+Gzira Utd.
+Gárdony
+Górnik Zabrze
+H Rishon leZion
+H. Beer Sheva
+H. Jerusalem
+H. Kfar Saba
+H. Nof HaGalil
+H. Petah Tikva
+H. Ramat Gan
+H. Umm al-Fahm
+H.szoboszló
+HB Köge
+HB Tórshavn
+HCMC FC
+HFX Wanderers
+HJK Helsinki
+HM Șugag
+HNK Gorica
+HNK Rijeka
+HNK Sibenik
+HSK Posusje
+HZVV
+Hajduk 1912
+Hajduk Split
+Hajer
+Haladás
+Halifax Town
+Hallescher FC
+HamKam
+Hamangia Baia
+Hamilton Acad.
+Hamrun Spart.
+Hansa Rostock
+Hapoel Acre
+Hapoel Bnei Lod
+Hapoel Hadera
+Hapoel Haifa
+Hapoel Herzliya
+Hapoel Tel Aviv
+Hassania
+Hatayspor
+Hatta Club
+Haugesund
+Hayes & Yeading
+Heart of Midl.
+Hebar P.
+Heerenveen
+Hegelmann
+Hellas U17
+Helmond Sport
+Helsingborgs IF
+Heraclea
+Hercílio Luz
+Hermannst. U19
+Hermannstadt II
+Hesperange
+Hessen Kassel
+Heur Tongeren
+Hibernians FC
+Hilleröd
+Hobro IK
+Honvéd
+Hoogstraten VV
+Hrv Dragovoljac
+Huragan Morag
+Husana Husi
+Härnösands FF
+Hércules CF
+IFK Haninge
+IFK Lidingö
+Ikon Allah FA
+Ilinden
+Ilvamaddalena
+Incheon Utd.
+Independenta
+Industria Galda
+Ingulets
+Inter Escaldes
+Inter Leipzig
+Inter Stars Sb.
+Inter Zapresic
+Inter de Madrid
+Interstar U19
+Ionikos Nikeas
+Iraklis
+Irodotos
+Ironi Tiberias
+Ischia
+Istanbulspor
+Istiqlol
+Ittihad Alex
+Ittihad Tanger
+Ituano
+JFK Ventspils
+JK Tammeka
+Jablonec
+Jacou Clapiers
+Jadran Porec
+Jagiellonia
+Javor-Matis
+Jedinstvo Sur
+Jelgava
+Jeonbuk Hyundai
+Jerv
+Jeunesse Esch
+Jimmy FA
+Jiul Petrosani
+Jodan Boys
+Johvi Phoenix
+Jonava
+Jura Sud
+Juve Stabia
+Juventus Bascov
+Juventus U20
+Jászberény
+KF Egnatia
+KF Erzeni
+KF Iliria
+KF Laçi
+KF Llapi
+KF Skënderbeu B
+KF Teuta
+KF Tirana
+KF Tërbuni
+KF Vllaznia
+KKS Kalisz
+KS Kastrioti
+KS Samara
+KSC Lokeren
+KSE Tg.Secuiesc
+KSK Lierse Kem.
+KSV Roeselare
+KV Kortrijk
+KV Oostende
+Kabilio Jaffa
+Kairat Almaty
+Kaizer Chiefs
+Kalev
+Kalju FC
+Kallithea
+Kansas City II
+Kaposvár
+Karcagi SE
+Karmiotissa
+Karpaty
+Kasimpasa
+Kaspiy Aktau
+Kauno Žalgiris
+Kaysar
+Kayserispor
+Kazincbarcika
+Kazma SC
+Kecskemét
+Kelantan FC
+Kelen SC
+Keshla
+Khanh Hoa FC
+Kheybar FC
+Khor Fakkan
+Kids Tampa
+Kilmarnock FC
+Kirchhörder SC
+Kiruna FF
+Kiryat Shmona
+Kisvárda
+Kocaelispor
+Kokkolan PV
+Kolkheti Poti
+Kolos Kovalivka
+Kolubara
+Kom Podgorica
+Komarno
+Kongsvinger
+Konyaspor
+Kormákur/Hvöt
+Korona Kielce
+Kozármisleny
+Krasnodar
+Krumovgrad
+Kryvbas
+KuPS
+Kyzyl-Zhar
+L. Tashkent U21
+L. Teuz Cermei
+LAFC
+LASK
+LB Châteauroux
+LC Sailors
+LD Alajuelense
+LKS Lodz
+LN SY Urban
+LN Tieren
+LOSC Lille B
+LPS Banatul
+LPS Bihorul
+LPS Buzău
+LPS Buzău U18
+LPS Satu Mare
+LPSHD Clinceni
+LSS Vointa
+La Louvière
+Lalitpur City
+Lamezia
+Lanciano
+Lausanne-Sport
+Lazio
+Lazio U18
+Le Mans FC
+Le Puy Foot
+Lecce
+Lecce U18
+Lecce U19
+Lecce U20
+Lech Poznan
+Lechia Gdansk
+Legia II
+Legia Warszawa
+Leicester U23
+Leiria
+Leixões
+Levico Terme
+Levski Sofia
+Leça
+León
+Liaoning FC
+Libertas
+Liepaja
+Lioni
+Lipót
+Livingston FC
+Lleida Esp. B
+Lobi Stars
+Logan Lightning
+Lok Ruse
+Loko Plovdiv
+Loko Sofia
+Lommel SK
+Londrina-PR
+Lorca FC
+Lori Vanadzor
+Los Andes
+Lotus B. Felix
+Loures
+Lovech
+Lucchese
+Luceafarul
+Luceafarul BR
+Ludogorets
+Lunano
+Lus. Lourosa
+Lusitânia
+M. Ahi Nazareth
+M. Bnei Reineh
+M. Caransebes
+M. Costesti
+M. Lupeni
+M. Ocna Dej II
+M. Petah Tikva
+MC Oran
+MOS Caen
+MSK Zilina
+MSK Zilina B
+MSV Duisburg
+MTK Budapest
+MVV Maastricht
+Maccabi Haifa
+Maccabi Jaffa
+Maccabi Netanya
+Mafra
+Magura Cisnadie
+Majad. U19
+Majosi SE
+Makedonija
+Maktaaral
+Makói FC
+Mallorca U19
+Man City
+Mangualde
+Manisa FK
+Marek Dupnitsa
+Marinhense
+Marítimo
+Marítimo U23
+Mediaș 2022
+Mes Rafsanjan
+Metalist 1925
+Metaloglob. U19
+Metalul Bz. II
+Metalul Bz. U19
+Metalurg. Cugir
+Metropolitano
+Mezőkövesd
+Michalovce
+Middlesbrough
+Miedz Legnica
+Mihailesti
+Mil. Giarmata
+Milan Futuro
+Milsami
+Minaur Baia Mare
+Minaur U19
+Miner. Ocna Dej
+Minerul Rodna
+Minija
+Mintiu Gherlii
+Miramar Rangers
+Mirassol-SP
+Miroslava
+Mlad. Zdralovi
+Mlada Boleslav
+Modelu
+Molynes United
+Mons Calpe
+Montana
+Monterrey
+Montevarchi
+Montréal
+Moreirense
+Mosonmagyaróvár
+Mostistea Ulmu
+Mouloudia
+Mouscron
+Mouscron U21
+Moșnița Nouă
+Mqabba FC
+Msp Calcio
+Muaither SC
+Muangthong Utd.
+Muhlenbach
+Mumbai City
+Muresul Tg. Ms.
+Muscelul Elite
+Málaga CF
+ND Gorica
+ND Primorje
+NEC Nijmegen
+NEROCA FC
+NK Aluminij
+NK Ankaran
+NK Brezice 1919
+NK Celje
+NK Crikvenica
+NK Dubrava ZG
+NK Dugopolje
+NK Fuzinar
+NK Istra
+NK Krka
+NK Krsko
+NK Kustosija
+NK Lokomotiva
+NK Maribor
+NK Nasice
+NK Olimpija
+NK Opatija
+NK Osijek
+NK Primorac (B)
+NK Radomlje
+NK Rudes
+NK Rudes U19
+NK Triglav
+NK Varazdin
+NK Varteks
+NK Vrapce
+NS Mura
+NWS Spirit
+Nacional
+Naftan
+Najran SC
+Nam Dinh FC
+Nantwich Town
+Napredak
+Nardò
+National Sebis
+Nea Salamis
+Neftchi
+Neftchi PFK
+Nera Bogodinț
+Neuves-Maisons
+New York City
+Newcastle U23
+Newington
+Nibbiano
+NibionnOggiono
+Nice
+Nieciecza
+Niki Volou
+Njardvík
+Nogueirense
+Nomme United
+Nordic Utd. FC
+Nordstern BS
+Norrköping
+Northwood FC
+Novara
+Novi Pazar
+Novo. Lucenec
+Nucet
+Nyíregyháza
+Nyíregyháza II
+Nàstic U19
+Nîmes Olympique
+O. Secuiesc
+OC Rasnov
+OF Ierapetras
+OFI Crete FC
+OFK Petrovac
+OFK Titograd
+OTP
+Oasul Negresti
+Oberhausen U19
+Ocna Mures
+Odd
+Oeirense
+Ohod Club
+Okzhetpes
+Olbia
+Olimp. Zarnesti
+Olimpik Donetsk
+Oliveirense
+Olym. Charleroi
+Olympiakos N.
+Oman Club
+Omiya Ardija
+Omon. Aradippou
+Omonia 29 Maiou
+Omonia Nicosia
+Onisilos Sotira
+Ordabasy
+Oriental Dragon
+Otelul Galati U19
+Othellos Athien
+Own Youth
+Ozana Tg. Nt.
+P. Ezeris
+P. Fundulea
+P. Niepolomice
+P. Ticleni
+PAE Chania
+PAEEK Kyrenia
+PAS Giannina
+PAS Lamia
+PDHAE
+PEC Zwolle
+PERSIB
+PFC Lviv
+PO Xylotymbou
+PS Kalamata
+PSS Sleman
+Padova
+Pafos
+Paksi FC
+Paksi FC II
+Palermo
+Panachaiki
+Panargiakos
+Panathinaikos
+Pandurii Targu Jiu (- 2022)
+Pandurii U19
+Panetolikos
+Panevėžys
+Panionios
+Panserraikos
+Paredes
+Pari NN
+Paris FC
+Paris SG B
+Parma
+Parma U19
+Parma U20
+Partium
+Partizan
+Patro Eisden
+Paulisana
+Paços Ferreira
+Pecica
+Peciu Nou
+Pelister Bitola
+Penafiel
+Persela
+Persik
+Persipura
+Pescara
+Petro Luanda
+Petrocub
+Petrolul Berca
+Petrolul II
+Petrolul Ploiesti
+Petrosport U19
+Phoenix Buzias
+Phoenix Rising
+Piast Gliwice
+Pirin
+Pisa
+Pistoiese
+Ploiesti U17
+Ploiesti U19
+Pobeda Star B.
+Podbeskidzie
+Podbrezova
+Poggibonsi
+Pogon Siedlce
+Pogon Szczecin
+Pohronie
+Poissy FC
+Pol. Warsaw
+Poli Iași U18
+Police Tero FC
+Polissya
+Ponferradina
+Ponferradina B
+Pop. Leordeni
+Pordenone
+Portimonense
+Portimonense 23
+Portland
+Portuguesa U20
+Potcoava
+Potenza
+Pr. Münster
+Pr. Niederkorn
+Praiense
+Precizia Sacele
+Pribram
+Prishtina e Re
+Pro Novara
+Pro Sesto
+Pro Vercelli
+Progres Selice
+Progresul 2005
+Progresul U19
+Puskás AFC
+Puskás AFC II
+Putnok
+Pyunik Yerevan
+Pécsi MFC
+QD Hainiu
+QD Red Lions
+QRM
+Qarabağ
+Quevilly Rouen
+Quilmes
+R. Casalecchio
+R. Léopold FC
+R. Majadahonda
+RANS FC
+RB Bragantino
+RBC Roosendaal
+RC Lens B
+RE Virton
+RFCU Luxembourg
+RFS
+RKC Waalwijk
+RS Berkane
+RSC Anderlecht
+RW Oberhausen
+Rabenstein
+Rabotnicki
+Racing
+Rad
+Radnicki 1923
+Radnicki Dalj
+Radnicki Nis
+Radnik
+Radomiak
+Raja Casablanca
+Raków
+Randers FC
+Rangers B
+Rapid 1923 II
+Rapid 1923 U18
+Rapid Brodoc
+Rapid Buzescu
+Rapide Oued Zem
+Rapperswil-Jona
+Ratchaburi FC
+Ravenna
+Rayners Lane
+Rayo Vallecano
+Reading
+Real Bradu
+Real Estelí FC
+Real Murcia
+Real Oviedo
+Real SC
+Recolta Dorolţ
+Recr. Huelva
+Red Star
+Red Star FC
+Reggiana
+Remo
+Renate
+Rennes B
+Resende
+Retezatul Hateg
+Retired
+Retrô U20
+Reus FCR
+Reutlingen U19
+Rieti
+Riga
+Rimini
+Rio Ave
+Ripensia Timisoara
+Ripensia Timisoara U19
+Riteriai
+Rivasamba
+Rm. Valcea
+Roda B
+Roda JC
+Roissy
+Rotonda
+Rotor Volgograd
+Rubin Kazan
+Ruch Chorzow
+Rudar Prijedor
+Rukh
+Rustavi
+Ruzomberok
+Râmnicu Sarat
+S. Darabani
+SB Academy
+SC Bastia
+SC Cambuur
+SC Covilhã
+SC Delta
+SC Dnipro-1
+SC Gjilani
+SC Hazebrouck
+SC Kfar Qasem
+SC Lyon
+SC Otelul Galati
+SC Paderborn
+SC Pfullendorf
+SC Sagamihara
+SC YF Juventus
+SCM Gloria U19
+SCM Zalau
+SCR Altach
+SD Amorebieta
+SD Colloto
+SD Eibar
+SD Huesca B
+SD Logroñés
+SD Tarazona
+SF Bulls
+SFC Opava
+SGV Freiberg
+SJ Vaslui
+SJK Seinäjoki
+SKF Sered
+SKN St. Pölten
+SKU Amstetten
+SLNA FC
+SO Armée
+SPAL
+SR Brasov
+SSU Politehnica Timisoara
+SSU Politehnica Timisoara U19
+SSh-75 Moskau
+SV 08 Laufenb.
+SV 7023 Z-S-P
+SV Horn
+SV Kapfenberg
+SV Lafnitz
+SV Ried
+SV Rottenmann
+SV Sandhausen
+SV Stripfing
+SV Weidenbach
+SX Chang'an At.
+SX Union
+SZ Dongwu
+Sabah FA
+Sabah FK
+Sacachispas
+Saint-Étienne B
+Salernitana
+Salernitana U19
+Salgueiros
+Salitas
+Sambenedettese
+Sampdoria
+Samsunspor
+San Marcelino
+San Marino
+San Telmo
+Sanatatea
+Sandefjord
+Sandnes Ulf
+Sandvikens IF
+Sanjoanense
+Sanliurfaspor
+Sant Rafel
+Santa Clara
+Santa Cruz-PE
+Santamarina
+Santos
+Santos FC
+Saprissa
+Saraswati YC
+Sarmiento Junin
+Sarpsborg 08
+Sassuolo
+Sassuolo U17
+Sassuolo U18
+Sassuolo U20
+Scanzorosciate
+Schiltigheim
+Scornicesti
+Scunthorpe U18
+Selimbar U19
+Seongnam FC
+Sepsi OSK II
+Sepsi OSK Sf. Gheorghe
+Sepsi OSK U19
+Septemvri Sofia
+Seregno
+Serik Spor
+Sertanense
+Sertãozinho
+Servette FC
+Sestri Levante
+Sevlievo
+Sfintul Gheor.
+Shakhter K.
+Shatin
+Sheff Wed U18
+Shirak Gyumri
+Shkendija
+Sibir
+Sileks
+Silvic. Maieru
+Simm-Bau
+Singureni
+Sint-Truiden
+Sirens FC
+Siroki Brijeg
+Sivasspor
+Skalica
+Slask Wroclaw
+Slaven Belupo
+Slavia Prague B
+Slavia Praha
+Slavia Sofia
+Sliema Wander.
+Sloboda Tuzla
+Sloga Meridian
+Slovacko
+Sogdiana
+Soimii Lipova
+Sol de América
+Soligorsk
+Somcuta Mare
+Somesul Dej
+Somuz Falticeni
+Soneja
+Sonnenhof-Gr.
+Sp. Chiscani
+Sp. Pitesti
+Sp. Rosiori
+Sparta Prague
+Sparta RmVâlcea
+Spartak
+Spartak 2
+Spartak Trnava
+Spartak Varna
+Spartaks
+Spartanii
+Speed Academy
+Sport Team
+Sport Team U18
+Sport. Cristal
+Sporting Liesti
+Sportul Botiz
+Sportul Simleu
+Sportul Snagov
+Srbija Wien
+St. Georgen
+St. Johann
+St. Poli U19
+Stabæk
+Stade Portelois
+Stade Tunisien
+StadeLO
+Stal Mielec
+Standard Liège
+Star Mioveni
+Star Sport Ag.
+Star St.
+Start
+Steaua Youth
+Stetson Hatters
+Sticla A. Turda
+Stiinta Poli
+Strani
+Struga
+Strømsgodset
+Stupcanica
+Sturm Graz
+Sundowns
+Sunshine Stars
+Suwon Bluewings
+Sveikata
+Swadhinata KS
+Swansea U23
+Szeged
+Szentlőrinc SE
+Sântandrei
+São Bento (SP)
+São Pedro Cova
+Südtirol
+Sūduva
+T. Sag
+TEC
+TJ Jinmen Tiger
+TOP Oss
+TSV Hartberg
+Tabor Sezana
+Tacuary FBC
+Tadamon Sour
+Taksony SE
+Talleres RE
+Talna Oraşu Nou
+Tambov
+Tanjong Pagar
+Taraz
+Targu Lapus
+Tarlungeni
+Tarpa
+Tatabánya
+Tatran Presov
+Taubaté U20
+Team Ticino U21
+Tel. Văleni
+Telstar
+Teramo
+Termoli
+Ternana
+Ternana U19
+Thanh Hoa FC
+The Strongest
+Tiffy Army FC
+Tikves
+Tilykratis
+Tirsense
+Tiszakécske
+Tobol Kostanay
+Toledo
+Tondela
+Torino
+Torino U17
+Torino U18
+Torino U19
+Toronto FC II
+Torpedo Kutaisi
+Torpedo Zhodino
+Torreense
+Tractor
+Tre Fiori
+Tric. Breaza
+Triestina
+Tritium
+Tromsø
+Troyes
+Tsarsko Selo
+Tukums
+Tupi
+Turan Tovuz
+Turris
+Turul Micula
+Tuzlaspor
+Tyumen
+U. Branistea
+U. Constanta
+UC AlbinoLeffe
+UCAM Murcia U19
+UD Almería
+UD Almería B
+UD Las Palmas
+UD Logroñés
+UE Cornellà
+UMECIT FC
+UR Namur
+UR Trabalhadore
+URSL Visé
+US Avranches
+US Boulogne
+US Granville
+US Raon-l'Étape
+US Vimy
+USL Dunkerque
+USV Iași
+UTA Arad
+UTA Arad II
+UTA Arad U19
+UVT Timișoara
+Udinese
+Ufa
+Ulytau Zh.
+Umm Salal SC
+Unia Turza
+Union Douala
+Union SG
+Union SG U19
+Unionistas CF
+Unipomezia
+Unirea Alba I.
+Unirea Bascov
+Unirea Constanta (2016 - 2023)
+Unirea DMO
+Unirea Dej
+Unirea Dej U19
+Unirea Floresti
+Unirea Tasnad
+Unirea Ungheni
+United FC
+União Almeirim
+União SC
+Unión Santa Fe
+Unknown
+Ural
+Ursus Warszawa
+Utah Avalanche
+Uthai Thani
+Utrecht U21
+Utsiktens BK
+V. Arad
+V. Colonesti
+V. Darabani
+V. Domnesti
+V. Francavilla
+V. Gugești
+V. Livezile
+V. Saelele 2017
+VLM Pliesovce
+VMG Cluj
+VPS
+VVV-Venlo
+VVV-Venlo U21
+Valadares Gaia
+Valea Marului
+Valenciennes FC
+Valletta
+Valmiera
+Vardar
+Varese
+Varzim
+Varzim U19
+Vasas FC
+Vasto Marina
+Vejle BK
+Velez Mostar
+Venados FC
+Venezia
+Venezia U19
+Venus B.
+Verona U20
+VfB Oldenburg
+VfR Aalen
+Viagem Usti n/L
+Vibonese
+Viborg FF
+Vict. Viișoara
+Victoria Carei
+Victoria Traian
+Victoria W.
+Vidi FC
+Viit. T. Jiu II
+Viitorul Cluj
+Viitorul Curița
+Viitorul Ianca
+Viitorul Onești
+Viitorul Pandurii Targu Jiu (- 2024)
+Viitorul Simian
+Viitorul Ulmeni
+Viitorul Vetis
+Viktoria Plzeň
+Vila Nova FC
+Vila Real
+Vilafranquense
+Vilaverdense
+Virtus Verona
+Viterbese
+Vitória Setúbal
+Vizela U23
+Vointa Crevedia
+Vointa Lanuri
+Vointa Limpezis
+Vointa Lupac
+Vojvodina
+Vorskla Poltava
+Vozdovac
+Vrsac
+Víkingur Ó.
+Vöcklamarkt
+W. Mannheim
+WH Three Towns
+WSG Tirol
+Wadi Degla
+Walter Ferretti
+Warta Poznan
+Watford U21
+West Ham
+Western United
+Whitecaps 2
+Widzew Lodz
+Wieczysta
+Willem II
+Wilstermann
+Wisla Kraków
+Without Club
+Wolves
+Wydad AC
+Y. Malatyaspor
+Y.B. Topoloveni
+YN Yukun
+Yelimay
+Yverdon Sport
+ZJ FC
+Zakho SC
+Zalaegerszeg
+Zalaegerszeg II
+Zaria Balti
+Zelez. Pancevo
+Zeljeznicar
+Zeta Golubovac
+Zhenis
+Zhetysu
+Ziduri
+Zimbru Chisinau
+Zimbru U17
+Zimbrul Conachi
+Zira FC
+Zlin
+Zorile Moisei
+Zorya Lugansk
+Zrinjski Mostar
+Zvijezda 09
+Zürich City SC
+Águilas FC
+ÍA Akranes
+Örebro SK
+Örebro Syr.
+Östers IF
+Újpest FC
+Ümraniyespor
+Şoimul Băiţa
+Žalgiris
+Știința Buc.
