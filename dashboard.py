@@ -8,6 +8,17 @@ import networkx as nx
 DATA_FILE = "data/processed/transfer_base_table.csv"
 st.set_page_config(layout="wide", page_title="Romanian Football Analytics Hub")
 
+# --- 🎨 THEME OVERRIDE (CSS) ---
+# FIXED: Removed the broken slider CSS. Only coloring the Multiselect Tags blue now.
+st.markdown("""
+<style>
+    /* Change the background color of the 'tags' in multiselect to Blue */
+    span[data-baseweb="tag"] {
+        background-color: #1f77b4 !important;
+    }
+</style>
+""", unsafe_allow_html=True)
+
 # --- HELPER FUNCTIONS ---
 def calculate_age(row):
     try:
@@ -84,10 +95,36 @@ if df.empty:
     st.stop()
 
 # ==============================================================================
-# 🌍 SIDEBAR
+# 🌍 SIDEBAR: ABOUT & FILTERS
 # ==============================================================================
+
+# --- 1. ABOUT SECTION ---
+st.sidebar.title("🇷🇴 RO Transfer Hub")
+with st.sidebar.expander("ℹ️ About & Methodology", expanded=False):
+    st.markdown("""
+    **What is this?**
+    A visual intelligence tool for analyzing transfer flows in the Romanian ecosystem.
+    
+    **Data Source:**
+    Processed data derived from Transfermarkt public records.
+    
+    **Definitions:**
+    * **Repatriation:** A player with Romanian citizenship transferring from a foreign league back to Romania.
+    * **Foreign Import:** A non-Romanian player transferring to Romania.
+    * **Fee Estimates:** Values are in € Millions. 'Free' transfers are treated as €0.
+    
+    **How to use:**
+    * Use the global filters below to slice the data by Season, Age, or Cost, then use the Tabs to explore Flows vs. Networks.
+    * Use the **Path Analyzer** (bottom of the page) to view details of the parties involved in transfers across leagues. (I.E. Italy -> Superliga)
+    * Use the **Club Networks tab** to see an overview between club interactions and identify strong partnerships.
+    * By hovering over a specific flow in the chart, you can see the path direction (from/to) and the volume of players transferred.
+    * The Internal (Domestic) option shows the player movements between Romanian leagues only.
+    """)
+
+st.sidebar.markdown("---")
 st.sidebar.header("🌍 Global Filters")
 
+# --- 2. FILTERS ---
 selected_seasons = st.sidebar.multiselect(
     "📅 Seasons", sorted(df['Season'].unique()), default=sorted(df['Season'].unique())
 )
@@ -123,40 +160,31 @@ if min_fee > 0:
 tab1, tab2 = st.tabs(["🗺️ Player Transit Map (Sankey)", "🕸️ Club Networks (Partnerships)"])
 
 # ==============================================================================
-# TAB 1: SANKEY (Updated)
+# TAB 1: SANKEY
 # ==============================================================================
 with tab1:
     st.header("🗺️ Player Transit Map")
     
     c_view1, c_view2, c_view3 = st.columns([1, 2, 2])
     with c_view1:
-        min_flow = st.slider("🔍 Noise Filter", 1, 50, 3)
+        min_flow = st.slider("🔍 Minimum Trasnfers Made", 1, 50, 3)
     with c_view2:
         view_mode = st.radio("Focus Mode", ["Imports (In to RO)", "Exports (Out of RO)", "Internal (Domestic)"], horizontal=True)
 
-    # SMART MIGRATION FILTER
-    # If "Exports", we hide the dropdown (it's redundant)
-    # If "Imports", we show Foreign vs Repatriation options
+    # Context-Aware Migration Filter
     valid_migrations = []
-    
     if view_mode == "Imports (In to RO)":
         valid_migrations = ["Foreign Import", "Repatriation (Return)"]
     elif view_mode == "Internal (Domestic)":
         valid_migrations = ["Domestic Move"]
-    # We deliberately leave list empty for Exports to hide the widget
 
     with c_view3:
-        if len(valid_migrations) > 1: # Only show if there's a choice to make
-            selected_migrations = st.multiselect(
-                "🛂 Filter Migration Pattern", 
-                options=valid_migrations,
-                default=valid_migrations
-            )
+        if len(valid_migrations) > 1: 
+            selected_migrations = st.multiselect("🛂 Filter Migration Pattern", options=valid_migrations, default=valid_migrations)
         else:
-            # If redundant, we just use a placeholder text or nothing
             if view_mode == "Exports (Out of RO)":
-                st.caption("✅ Showing all exports (no sub-filter needed)")
-                selected_migrations = ["Export (Out)"] # Auto-select behind scenes
+                st.caption("✅ Showing all exports")
+                selected_migrations = ["Export (Out)"]
             else:
                 st.caption("✅ Showing all domestic moves")
                 selected_migrations = ["Domestic Move"]
@@ -256,7 +284,7 @@ with tab2:
     st.header("🕸️ Club Partnership Networks")
     c_net1, c_net2, c_net3 = st.columns([1, 1, 2])
     with c_net1: network_scope = st.radio("Network Scope", ["SuperLiga Internal", "SuperLiga ↔ Liga 2", "All Domestic"])
-    with c_net2: min_strength = st.slider("Min. Transfers", 1, 20, 3, key="net_strength")
+    with c_net2: min_strength = st.slider("Minimum Transfers Made", 1, 20, 3, key="net_strength")
 
     net_df = filtered_df.copy()
     if network_scope == "SuperLiga Internal":
@@ -314,14 +342,18 @@ with tab2:
             node_trace = go.Scatter(x=node_x, y=node_y, mode='markers+text', text=[node for node in G.nodes()], textposition="top center", hoverinfo='text', marker=dict(showscale=False, color=node_colors, size=node_size, line_width=2))
             node_trace.textfont = dict(size=10, color="black")
             fig_net = go.Figure(data=[edge_trace, node_trace], layout=go.Layout(showlegend=False, hovermode='closest', margin=dict(b=0,l=0,r=0,t=0), height=700, xaxis=dict(showgrid=False, zeroline=False, showticklabels=False), yaxis=dict(showgrid=False, zeroline=False, showticklabels=False)))
-            c_g, c_d = st.columns([3, 1])
+            
+            c_g, c_d = st.columns([2.5, 1.5])
             with c_g: st.plotly_chart(fig_net, use_container_width=True)
             with c_d:
                 st.markdown(f"### 🏆 {table_title}")
                 display_df = edges_df.copy()
                 if focus_club != "Show Whole Network":
-                     if direction_mode == "Incoming (Buying From)": display_df = display_df[['Origin_Club', 'Weight']].rename(columns={'Origin_Club': 'Seller Club', 'Weight': 'Bought'})
-                     elif direction_mode == "Outgoing (Selling To)": display_df = display_df[['Destination_Club', 'Weight']].rename(columns={'Destination_Club': 'Buyer Club', 'Weight': 'Sold'})
-                st.dataframe(display_df.sort_values(by=display_df.columns[-1], ascending=False), use_container_width=True, hide_index=True)
+                     if direction_mode == "Incoming (Buying From)": display_df = display_df[['Origin_Club', 'Weight']].rename(columns={'Origin_Club': 'Seller Club', 'Weight': '# of transfers'})
+                     elif direction_mode == "Outgoing (Selling To)": display_df = display_df[['Destination_Club', 'Weight']].rename(columns={'Destination_Club': 'Buyer Club', 'Weight': '# of transfers'})
+                else:
+                    display_df.rename(columns={'Weight': '# of transfers'}, inplace=True)
+                
+                st.dataframe(display_df.sort_values(by='# of transfers', ascending=False), use_container_width=True, hide_index=True)
     else:
         st.warning("⚠️ No connections found.")
